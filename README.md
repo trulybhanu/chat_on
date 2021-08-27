@@ -4,6 +4,17 @@ This is a chat application made using ReactJS and Chat Engine.
 
 ## Introduction
 
-This is a Microsoft Teams clone built with React JS and Chat Engine.
+This is a Chat application built with React JS and Chat Engine built for web browsers.
+
+## Description
+
+It has simlplistic and clean user interface.
 
 I have used JavaScript library ReactJS for implementing functionalities, and Chat Engine as a chat specific APIs and UI Kit.
+
+## Required Tools and Technologies
+
+ReactJS
+ChatEngine
+
+Dependencies: @ant-design/icons, axios, and react-chat-engine
