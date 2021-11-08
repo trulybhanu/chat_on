@@ -4,7 +4,7 @@ This is a chat application made using ReactJS and Chat Engine.
 
 ## Introduction
 
-This is a Chat application built with React JS and Chat Engine built for web browsers.
+This chat application built with React JS and Chat Engine built for web browsers.
 
 ## Description
 
